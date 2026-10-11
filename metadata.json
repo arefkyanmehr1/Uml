@@ -1,0 +1,6 @@
+{
+  "name": "RoseUML AI - مولد مدل رشنال رویز و نمودار UML",
+  "description": "تبدیل هوشمند ایده‌های مهندسی نرم‌افزار به نمودار کلاس، یوزکیس و فایل‌های اختصاصی نرم‌افزار رشنال رویز (.mdl و .ebs)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
